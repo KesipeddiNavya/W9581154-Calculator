@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "611497602114",
+    "firebase_url": "https://child-control-7212f-default-rtdb.firebaseio.com",
+    "project_id": "child-control-7212f",
+    "storage_bucket": "child-control-7212f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611497602114:android:3c9a7300e6a712a51b51db",
+        "android_client_info": {
+          "package_name": "com.parentchild.childcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611497602114-voa72eqt8hg1pd38e453484l6c38m9gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxYag5Ww000nuW4qT-ZgE43dAT3L5ydI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611497602114-voa72eqt8hg1pd38e453484l6c38m9gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611497602114:android:e2b75f1142b7d9f41b51db",
+        "android_client_info": {
+          "package_name": "com.parentchild.childmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611497602114-voa72eqt8hg1pd38e453484l6c38m9gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxYag5Ww000nuW4qT-ZgE43dAT3L5ydI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611497602114-voa72eqt8hg1pd38e453484l6c38m9gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611497602114:android:16caabdd6c4a7faa1b51db",
+        "android_client_info": {
+          "package_name": "com.parentchild.childmonitoringapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611497602114-voa72eqt8hg1pd38e453484l6c38m9gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxYag5Ww000nuW4qT-ZgE43dAT3L5ydI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611497602114-voa72eqt8hg1pd38e453484l6c38m9gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
